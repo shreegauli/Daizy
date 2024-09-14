@@ -7,8 +7,8 @@ if (bar){
     })
 }
 
-if (HTMLFormControlsCollection){
-    close.addEventListener('click', () => {
-        nav.classList.remove('active')
-    })
-}
+// if (bar){
+//     bar.addEventListener('click', () => {
+//         nav.classList.remove('active')
+//     })
+// }
