@@ -215,59 +215,59 @@ color: #000;
 }
 
 /* cart page */
-#cart{
+#cart-list{
   overflow-x: auto;
 }
-#cart table{
+#cart-list table{
   width: 100%;
 border-collapse: collapse;
 table-layout: fixed;
 white-space: nowrap;
 }
-#cart table img{
+#cart-list table img{
   width: 70px;
 }
-#cart table td:nth-child(1){
+#cart-list table td:nth-child(1){
 width: 100px;
 text-align: center;
 }
-#cart table td:nth-child(2){
+#cart-list table td:nth-child(2){
   width: 150px;
   text-align: center;
   }
-#cart table td:nth-child(3){
+#cart-list table td:nth-child(3){
 width: 250px;
 text-align: center;
 }
-#cart table td:nth-child(4),
-#cart table td:nth-child(6){
+#cart-list table td:nth-child(4),
+#cart-list table td:nth-child(6){
   width: 170px;
   text-align: center;
   }
-  #cart table td:nth-child(5){
+  #cart-list table td:nth-child(5){
     width: 170px;
     text-align: center;
   }
-  #cart table td:nth-child(5) input{
+  #cart-list table td:nth-child(5) input{
     width: 70px;
     padding: 10px 5px 10px 15px;
 
   }
-  #cart table thead{
+  #cart-list table thead{
     border: 1px solid #e1e1e1;
     border-left: none;
     border-right: none;
   }
-  #cart table thead td{
+  #cart-list table thead td{
     font-weight: 700;
     text-transform: uppercase;
     font-size: 13px;
     padding: 18px 0;
   }
-  #cart table tbody tr td{
+  #cart-list table tbody tr td{
     padding-top: 15px;
   }
-  #cart table tbody td{
+  #cart-list table tbody td{
     font-size: 13px;
   }
   #cart-add{
